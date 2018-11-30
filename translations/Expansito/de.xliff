@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Expansito/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+    </header>
+    <body/>
+  </file>
+  <file original="Expansito/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+    </header>
+    <body>
+      <trans-unit id="1sC-38-fAJ.text">
+        <source>😀</source>
+        <target>😀</target>
+        <note>Class = "UILabel"; text = "😀"; ObjectID = "1sC-38-fAJ";</note>
+      </trans-unit>
+      <trans-unit id="2AU-7M-qXP.text">
+        <source>Title</source>
+        <target>Titel</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "2AU-7M-qXP";</note>
+      </trans-unit>
+      <trans-unit id="2E2-q1-coe.text">
+        <source>Amount:</source>
+        <target>Betrag:</target>
+        <note>Class = "UILabel"; text = "Amount:"; ObjectID = "2E2-q1-coe";</note>
+      </trans-unit>
+      <trans-unit id="2fv-Yd-g2K.title">
+        <source>Report</source>
+        <target>Report</target>
+        <note>Class = "UINavigationItem"; title = "Report"; ObjectID = "2fv-Yd-g2K";</note>
+      </trans-unit>
+      <trans-unit id="2uF-X8-WSU.text">
+        <source>13.99</source>
+        <note>Class = "UILabel"; text = "13.99"; ObjectID = "2uF-X8-WSU";</note>
+      </trans-unit>
+      <trans-unit id="3WV-T1-mco.text">
+        <source>Title</source>
+        <target>Titel</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "3WV-T1-mco";</note>
+      </trans-unit>
+      <trans-unit id="5K4-lj-Iz5.text">
+        <source>Category:</source>
+        <target>Kategorie:</target>
+        <note>Class = "UILabel"; text = "Category:"; ObjectID = "5K4-lj-Iz5";</note>
+      </trans-unit>
+      <trans-unit id="9iM-CQ-RWS.text">
+        <source>Wed, 3 Oct 2017</source>
+        <note>Class = "UILabel"; text = "Wed, 3 Oct 2017"; ObjectID = "9iM-CQ-RWS";</note>
+      </trans-unit>
+      <trans-unit id="B9a-l2-QYH.text">
+        <source>Store:</source>
+        <target>Geschäft:</target>
+        <note>Class = "UILabel"; text = "Store:"; ObjectID = "B9a-l2-QYH";</note>
+      </trans-unit>
+      <trans-unit id="ECN-tP-5FM.title">
+        <source>Stores</source>
+        <target>Geschäfte</target>
+        <note>Class = "UINavigationItem"; title = "Stores"; ObjectID = "ECN-tP-5FM";</note>
+      </trans-unit>
+      <trans-unit id="Gy3-Ex-Ec4.text">
+        <source>13.99</source>
+        <note>Class = "UILabel"; text = "13.99"; ObjectID = "Gy3-Ex-Ec4";</note>
+      </trans-unit>
+      <trans-unit id="HOG-0U-i8I.text">
+        <source>€</source>
+        <note>Class = "UILabel"; text = "€"; ObjectID = "HOG-0U-i8I";</note>
+      </trans-unit>
+      <trans-unit id="Kye-es-0VU.text">
+        <source>Lebensmittel</source>
+        <note>Class = "UILabel"; text = "Lebensmittel"; ObjectID = "Kye-es-0VU";</note>
+      </trans-unit>
+      <trans-unit id="NhK-bc-S9T.text">
+        <source>13.99</source>
+        <note>Class = "UILabel"; text = "13.99"; ObjectID = "NhK-bc-S9T";</note>
+      </trans-unit>
+      <trans-unit id="Nt4-NO-F2E.normalTitle">
+        <source>Select Category</source>
+        <target>Kategorie wählen</target>
+        <note>Class = "UIButton"; normalTitle = "Select Category"; ObjectID = "Nt4-NO-F2E";</note>
+      </trans-unit>
+      <trans-unit id="T8Z-7a-aS0.normalTitle">
+        <source>Select Store</source>
+        <target>Geschäft wählen</target>
+        <note>Class = "UIButton"; normalTitle = "Select Store"; ObjectID = "T8Z-7a-aS0";</note>
+      </trans-unit>
+      <trans-unit id="TCI-bV-rCV.title">
+        <source>Categories</source>
+        <target>Kategorien</target>
+        <note>Class = "UINavigationItem"; title = "Categories"; ObjectID = "TCI-bV-rCV";</note>
+      </trans-unit>
+      <trans-unit id="TkI-lE-Q1P.text">
+        <source>Category:</source>
+        <target>Kategorie:</target>
+        <note>Class = "UILabel"; text = "Category:"; ObjectID = "TkI-lE-Q1P";</note>
+      </trans-unit>
+      <trans-unit id="ZND-hq-65h.text">
+        <source>Lebensmittel</source>
+        <note>Class = "UILabel"; text = "Lebensmittel"; ObjectID = "ZND-hq-65h";</note>
+      </trans-unit>
+      <trans-unit id="c6B-fh-6h4.text">
+        <source>Date:</source>
+        <target>Datum:</target>
+        <note>Class = "UILabel"; text = "Date:"; ObjectID = "c6B-fh-6h4";</note>
+      </trans-unit>
+      <trans-unit id="dKb-CC-uKN.title">
+        <source>Add Store</source>
+        <target>Geschäft hinzufügen</target>
+        <note>Class = "UINavigationItem"; title = "Add Store"; ObjectID = "dKb-CC-uKN";</note>
+      </trans-unit>
+      <trans-unit id="f97-xA-8jR.text">
+        <source>Gemüse, Obst</source>
+        <note>Class = "UILabel"; text = "Gemüse, Obst"; ObjectID = "f97-xA-8jR";</note>
+      </trans-unit>
+      <trans-unit id="kcw-Gd-k8d.title">
+        <source>Report</source>
+        <target>Report</target>
+        <note>Class = "UIBarButtonItem"; title = "Report"; ObjectID = "kcw-Gd-k8d";</note>
+      </trans-unit>
+      <trans-unit id="m1O-iE-Bwl.text">
+        <source>😀</source>
+        <note>Class = "UILabel"; text = "😀"; ObjectID = "m1O-iE-Bwl";</note>
+      </trans-unit>
+      <trans-unit id="nKa-OZ-ggu.text">
+        <source>Emoji:</source>
+        <target>Emoji:</target>
+        <note>Class = "UILabel"; text = "Emoji:"; ObjectID = "nKa-OZ-ggu";</note>
+      </trans-unit>
+      <trans-unit id="ocP-Kc-eFD.title">
+        <source>Add Category</source>
+        <target>Kategorie hinzufügen</target>
+        <note>Class = "UINavigationItem"; title = "Add Category"; ObjectID = "ocP-Kc-eFD";</note>
+      </trans-unit>
+      <trans-unit id="owj-Le-Rxs.title">
+        <source>Expansito</source>
+        <target>Expansito</target>
+        <note>Class = "UIBarButtonItem"; title = "Expansito"; ObjectID = "owj-Le-Rxs";</note>
+      </trans-unit>
+      <trans-unit id="oxY-zj-SeS.text">
+        <source>Edeka</source>
+        <note>Class = "UILabel"; text = "Edeka"; ObjectID = "oxY-zj-SeS";</note>
+      </trans-unit>
+      <trans-unit id="puG-Jy-7jJ.text">
+        <source>Wed, 3 Oct 2017</source>
+        <note>Class = "UILabel"; text = "Wed, 3 Oct 2017"; ObjectID = "puG-Jy-7jJ";</note>
+      </trans-unit>
+      <trans-unit id="qKU-US-tXi.text">
+        <source>Edeka</source>
+        <note>Class = "UILabel"; text = "Edeka"; ObjectID = "qKU-US-tXi";</note>
+      </trans-unit>
+      <trans-unit id="uau-9F-kaB.text">
+        <source>Gemüse, Obst</source>
+        <note>Class = "UILabel"; text = "Gemüse, Obst"; ObjectID = "uau-9F-kaB";</note>
+      </trans-unit>
+      <trans-unit id="vca-wY-hrO.text">
+        <source>Note:</source>
+        <target>Notiz:</target>
+        <note>Class = "UILabel"; text = "Note:"; ObjectID = "vca-wY-hrO";</note>
+      </trans-unit>
+      <trans-unit id="wLE-4z-g07.title">
+        <source>Add Expense</source>
+        <target>Ausgabe hinzufügen</target>
+        <note>Class = "UINavigationItem"; title = "Add Expense"; ObjectID = "wLE-4z-g07";</note>
+      </trans-unit>
+      <trans-unit id="zcn-TD-wpD.title">
+        <source>Expansito</source>
+        <target>Expansito</target>
+        <note>Class = "UINavigationItem"; title = "Expansito"; ObjectID = "zcn-TD-wpD";</note>
+      </trans-unit>
+      <trans-unit id="zg6-Gs-3C4.text">
+        <source>Store:</source>
+        <target>Geschäft:</target>
+        <note>Class = "UILabel"; text = "Store:"; ObjectID = "zg6-Gs-3C4";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Expansito/Info.plist" source-language="en" datatype="plaintext" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Expansito/Localizable.strings" source-language="en" datatype="plaintext" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.1" build-num="9B55"/>
+    </header>
+    <body>
+      <trans-unit id="Add Expense">
+        <source>Add Expense</source>
+        <target>Ausgabe hinzufügen</target>
+        <note>Add Expense Title</note>
+      </trans-unit>
+      <trans-unit id="Done">
+        <source>Done</source>
+        <target>Fertig</target>
+        <note>Done Button</note>
+      </trans-unit>
+      <trans-unit id="Edit Category">
+        <source>Edit Category</source>
+        <target>Kategorie editieren</target>
+        <note>Edit Category Title</note>
+      </trans-unit>
+      <trans-unit id="Edit Expense">
+        <source>Edit Expense</source>
+        <target>Ausgabe editieren</target>
+        <note>Edit Expense Title</note>
+      </trans-unit>
+      <trans-unit id="Edit Store">
+        <source>Edit Store</source>
+        <target>Geschäft editieren</target>
+        <note>Edit Store Title</note>
+      </trans-unit>
+      <trans-unit id="No Category">
+        <source>No Category</source>
+        <target>Keine Kategorie</target>
+        <note>No Category Field</note>
+      </trans-unit>
+      <trans-unit id="Result">
+        <source>Result</source>
+        <target>Ergebnis</target>
+        <note>Result Title</note>
+      </trans-unit>
+      <trans-unit id="Results">
+        <source>Results</source>
+        <target>Ergebnisse</target>
+        <note>Results Title</note>
+      </trans-unit>
+      <trans-unit id="Select Category">
+        <source>Select Category</source>
+        <target>Kategorie wählen</target>
+        <note>Select Category Button</note>
+      </trans-unit>
+      <trans-unit id="Select Store">
+        <source>Select Store</source>
+        <target>Geschäft wählen</target>
+        <note>Select Store Button</note>
+      </trans-unit>
+      <trans-unit id="Sum">
+        <source>Sum</source>
+        <target>Gesamt</target>
+        <note>Sum Search Term</note>
+      </trans-unit>
+      <trans-unit id="Today">
+        <source>Today</source>
+        <target>Heute</target>
+        <note>Today Label</note>
+      </trans-unit>
+      <trans-unit id="Tomorrow">
+        <source>Tomorrow</source>
+        <target>Morgen</target>
+        <note>Tomorrow Label</note>
+      </trans-unit>
+      <trans-unit id="Yesterday">
+        <source>Yesterday</source>
+        <target>Gestern</target>
+        <note>Yesterday Label</note>
+      </trans-unit>
+      <trans-unit id="u{2717} Delete">
+        <source>u{2717} Delete</source>
+        <target>u{2717} Löschen</target>
+        <note>Delete Row</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
